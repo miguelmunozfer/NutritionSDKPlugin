@@ -21,7 +21,8 @@ let package = Package(
         .target(
             name: "NutritionIASDKWrapper",
             dependencies: [
-                .product(name: "JWTDecode", package: "JWTDecode.swift")
+                .product(name: "JWTDecode", package: "JWTDecode.swift"),
+                "NutritionIASDK"
             ],
             path: "Sources/NutritionIASDKWrapper"
         )
