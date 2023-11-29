@@ -10,7 +10,7 @@ To integrate the NutritionSDK in your React Native project using Swift Package M
 
 2. **Adding Swift Package**:
    - Go to `File` -> `Swift Packages` -> `Add Package Dependency`.
-   - Enter the URL for the NutritionSDK: `https://github.com/miguelmunozfer/NutritionSPM`
+   - Enter the URL for the NutritionSDK: `https://github.com/miguelmunozfer/NutritionSDKPlugin`
    - Follow the prompts to choose the version and options for integrating the package into your project.
 
 3. **Verifying Integration**:
