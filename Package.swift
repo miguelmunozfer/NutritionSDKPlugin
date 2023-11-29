@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "NutritionIASDK",
     platforms: [
-        .iOS(.v11) // Especifica iOS 11 como la plataforma mínima
+        .iOS(.v11)
     ],
     products: [
         .library(
