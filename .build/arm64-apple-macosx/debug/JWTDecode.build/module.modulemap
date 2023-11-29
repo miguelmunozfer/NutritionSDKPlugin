@@ -1,0 +1,4 @@
+module JWTDecode {
+    header "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/JWTDecode.build/JWTDecode-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module NutritionIASDKWrapper {
+    header "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/NutritionIASDKWrapper.build/NutritionIASDKWrapper-Swift.h"
+    requires objc
+}

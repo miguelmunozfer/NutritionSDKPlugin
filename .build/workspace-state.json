@@ -1,0 +1,57 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "nutritionspm",
+          "kind" : "root",
+          "location" : "/Users/mmunozfer/Documents/NutritionSPM",
+          "name" : "NutritionSPM"
+        },
+        "path" : "/Users/mmunozfer/Documents/NutritionSPM/NutritionIASDK.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "NutritionIASDK"
+      }
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "hero",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/HeroTransitions/Hero.git",
+          "name" : "Hero"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "66a554b21116fccf61b3aa2205a86f6b0cdc9766",
+            "version" : "1.6.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Hero"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "jwtdecode.swift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/auth0/JWTDecode.swift.git",
+          "name" : "JWTDecode"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "3cd207fb9e943b6168a117baa3936c823204c2dc",
+            "version" : "2.6.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "JWTDecode.swift"
+      }
+    ]
+  },
+  "version" : 6
+}

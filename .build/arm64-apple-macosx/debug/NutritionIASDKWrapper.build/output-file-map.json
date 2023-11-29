@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/NutritionIASDKWrapper.build/master.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/Sources/NutritionIASDKWrapper/Dummy.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/NutritionIASDKWrapper.build/Dummy.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/NutritionIASDKWrapper.build/Dummy.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/NutritionIASDKWrapper.build/Dummy~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/NutritionIASDKWrapper.build/Dummy.swiftdeps"
+  }
+}

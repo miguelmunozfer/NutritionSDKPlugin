@@ -1,0 +1,299 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/master.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Animator/HeroAnimatorViewContext.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroAnimatorViewContext.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroAnimatorViewContext.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroAnimatorViewContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroAnimatorViewContext.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Animator/HeroCoreAnimationViewContext.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroCoreAnimationViewContext.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroCoreAnimationViewContext.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroCoreAnimationViewContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroCoreAnimationViewContext.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Animator/HeroDefaultAnimator.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroDefaultAnimator.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroDefaultAnimator.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroDefaultAnimator~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroDefaultAnimator.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Animator/HeroViewPropertyViewContext.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroViewPropertyViewContext.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroViewPropertyViewContext.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroViewPropertyViewContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Animator/HeroViewPropertyViewContext.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Debug Plugin/HeroDebugPlugin.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugPlugin.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugPlugin.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugPlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugPlugin.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Debug Plugin/HeroDebugView.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugView.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugView.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Debug Plugin/HeroDebugView.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/Array+HeroModifier.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Array+HeroModifier.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Array+HeroModifier.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Array+HeroModifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Array+HeroModifier.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/CALayer+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CALayer+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CALayer+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CALayer+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CALayer+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/CAMediaTimingFunction+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CAMediaTimingFunction+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CAMediaTimingFunction+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CAMediaTimingFunction+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CAMediaTimingFunction+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/CG+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CG+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CG+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CG+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/CG+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/DispatchQueue+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/DispatchQueue+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/DispatchQueue+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/DispatchQueue+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/DispatchQueue+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/Locale+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Locale+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Locale+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Locale+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/Locale+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/UIColor+HexString.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIColor+HexString.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIColor+HexString.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIColor+HexString~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIColor+HexString.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/UIKit+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIKit+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIKit+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIKit+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIKit+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/UIView+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIView+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIView+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIView+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIView+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Extensions/UIViewController+Hero.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIViewController+Hero.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIViewController+Hero.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIViewController+Hero~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Extensions/UIViewController+Hero.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroCompatible.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroCompatible.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroCompatible.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroCompatible~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroCompatible.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroContext.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroContext.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroContext.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroContext.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroModifier+Advanced.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+Advanced.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+Advanced.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+Advanced~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+Advanced.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroModifier+HeroStringConvertible.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+HeroStringConvertible.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+HeroStringConvertible.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+HeroStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier+HeroStringConvertible.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroModifier.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroModifier.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroPlugin.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroPlugin.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroPlugin.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroPlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroPlugin.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroTargetState.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTargetState.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTargetState.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTargetState~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTargetState.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroTypes.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTypes.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTypes.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroTypes.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/HeroViewControllerDelegate.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroViewControllerDelegate.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroViewControllerDelegate.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroViewControllerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/HeroViewControllerDelegate.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Parser/HeroStringConvertible.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/HeroStringConvertible.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/HeroStringConvertible.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/HeroStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/HeroStringConvertible.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Parser/Lexer.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Lexer.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Lexer.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Lexer~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Lexer.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Parser/Nodes.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Nodes.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Nodes.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Nodes~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Nodes.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Parser/Parser.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Parser.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Parser.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Parser.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Parser/Regex.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Regex.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Regex.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Regex~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Parser/Regex.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/BasePreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/BasePreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/BasePreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/BasePreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/BasePreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/CascadePreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/CascadePreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/CascadePreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/CascadePreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/CascadePreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/ConditionalPreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/ConditionalPreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/ConditionalPreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/ConditionalPreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/ConditionalPreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/DefaultAnimationPreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/DefaultAnimationPreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/DefaultAnimationPreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/DefaultAnimationPreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/DefaultAnimationPreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/IgnoreSubviewModifiersPreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/IgnoreSubviewModifiersPreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/IgnoreSubviewModifiersPreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/IgnoreSubviewModifiersPreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/IgnoreSubviewModifiersPreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/MatchPreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/MatchPreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/MatchPreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/MatchPreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/MatchPreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Preprocessors/SourcePreprocessor.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/SourcePreprocessor.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/SourcePreprocessor.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/SourcePreprocessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Preprocessors/SourcePreprocessor.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/SwiftSupport.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/SwiftSupport.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/SwiftSupport.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/SwiftSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/SwiftSupport.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroProgressRunner.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroProgressRunner.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroProgressRunner.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroProgressRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroProgressRunner.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+Animate.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Animate.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Animate.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Animate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Animate.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+Complete.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Complete.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Complete.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Complete~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Complete.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+CustomTransition.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+CustomTransition.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+CustomTransition.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+CustomTransition~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+CustomTransition.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+Interactive.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Interactive.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Interactive.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Interactive~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Interactive.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+Start.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Start.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Start.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Start~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+Start.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+UINavigationControllerDelegate.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UINavigationControllerDelegate.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UINavigationControllerDelegate.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UINavigationControllerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UINavigationControllerDelegate.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+UITabBarControllerDelegate.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UITabBarControllerDelegate.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UITabBarControllerDelegate.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UITabBarControllerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UITabBarControllerDelegate.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition+UIViewControllerTransitioningDelegate.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UIViewControllerTransitioningDelegate.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UIViewControllerTransitioningDelegate.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UIViewControllerTransitioningDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition+UIViewControllerTransitioningDelegate.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransition.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransition.swiftdeps"
+  },
+  "/Users/mmunozfer/Documents/NutritionSPM/.build/checkouts/Hero/Sources/Transition/HeroTransitionState.swift": {
+    "dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransitionState.d",
+    "object": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransitionState.swift.o",
+    "swiftmodule": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransitionState~partial.swiftmodule",
+    "swift-dependencies": "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Transition/HeroTransitionState.swiftdeps"
+  }
+}
