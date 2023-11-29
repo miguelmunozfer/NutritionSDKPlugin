@@ -25,7 +25,7 @@ This process will integrate the NutritionSDK into your React Native project, all
 Before starting, ensure that your React Native project is set up and ready to integrate native modules.
 
 ### Add Swift Files to Your Project:
-- Place the `NutritionSDKBridge.swift` and `NutritionBridge.m` along with any other required Swift files in your project's directory.
+- Place the `NutritionSDKBridge.swift` and `NutritionSDKBridge.m` along with any other required Swift files in your project's directory.
 
 ### Configure Objective-C Bridging Header:
 - If you haven't already, create a bridging header to use Swift with Objective-C in your project. This is usually done automatically by Xcode when you add a new Swift file to an Objective-C project.
@@ -45,9 +45,9 @@ Starts the NutritionSDK session with the given user credentials.
 
 #### Example:
 ```javascript
-import { NutritionSDK } from 'NativeModules';
+import { NutritionSDKBridge } from 'NativeModules';
 
-NutritionSDK.start('username', 'appId', 'password');
+NutritionSDKBridge.start('username', 'appId', 'password');
 ```
 
 ### `updateProfile(sex, height, weight, birthDateString)`
@@ -63,7 +63,7 @@ Updates the user's profile with the provided details.
 
 #### Example:
 ```javascript
-NutritionSDK.updateProfile('Male', 180, 75, '1990-01-01');
+NutritionSDKBridge.updateProfile('Male', 180, 75, '1990-01-01');
 ```
 
 ### `showNutritionModule()`
@@ -71,7 +71,7 @@ Displays the nutrition module.
 
 #### Example:
 ```javascript
-NutritionSDK.showNutritionModule();
+NutritionSDKBridge.showNutritionModule();
 ```
 
 ### `isProfileFilled()`
@@ -79,7 +79,7 @@ Checks if the user's profile is completely filled.
 
 #### Example:
 ```javascript
-NutritionSDK.isProfileFilled().then(isFilled => {
+NutritionSDKBridge.isProfileFilled().then(isFilled => {
   console.log('Is profile filled:', isFilled);
 });
 ```
@@ -92,7 +92,7 @@ Sets the member ID for the user.
 
 #### Example:
 ```javascript
-NutritionSDK.setMemberId('memberId');
+NutritionSDKBridge.setMemberId('memberId');
 ```
 
 ### `setCountry(country)`
@@ -111,7 +111,7 @@ Sets the user's country in the SDK.
 
 #### Example:
 ```javascript
-NutritionSDK.setCountry(1); // For Spain
+NutritionSDKBridge.setCountry(1); // For Spain
 ```
 
 ### `startSession(appID, password)`
@@ -123,7 +123,7 @@ Starts a new session with the provided app ID and password.
 
 #### Example:
 ```javascript
-NutritionSDK.startSession('appID', 'password');
+NutritionSDKBridge.startSession('appID', 'password');
 ```
 
 ### `logout()`
@@ -131,7 +131,7 @@ Logs out the current user from the SDK.
 
 #### Example:
 ```javascript
-NutritionSDK.logout();
+NutritionSDKBridge.logout();
 ```
 
 ### `setMainColor(color)`
@@ -142,7 +142,7 @@ Sets the main color theme for the SDK's UI elements.
 
 #### Example:
 ```javascript
-NutritionSDK.setMainColor('FF5733'); // Example with a hex color code
+NutritionSDKBridge.setMainColor('FF5733'); // Example with a hex color code
 ```
 
 ### `setNavigationBarColor(color)`
@@ -153,7 +153,7 @@ Sets the navigation bar color.
 
 #### Example:
 ```javascript
-NutritionSDK.setNavigationBarColor('007AFF');
+NutritionSDKBridge.setNavigationBarColor('007AFF');
 ```
 
 ### `setNavigationTintColor(color)`
@@ -164,7 +164,7 @@ Sets the navigation tint color, which is often used for button items in the navi
 
 #### Example:
 ```javascript
-NutritionSDK.setNavigationTintColor('FFFFFF');
+NutritionSDKBridge.setNavigationTintColor('FFFFFF');
 ```
 
 ### `setNavigationTitle(title)`
@@ -175,7 +175,7 @@ Sets the title for the navigation bar.
 
 #### Example:
 ```javascript
-NutritionSDK.setNavigationTitle('My Nutrition App');
+NutritionSDKBridge.setNavigationTitle('My Nutrition App');
 ```
 
 ### `setLanguage(language)`
@@ -192,7 +192,7 @@ Sets the language for the SDK.
 
 #### Example:
 ```javascript
-NutritionSDK.setLanguage('en'); // For English
+NutritionSDKBridge.setLanguage('en'); // For English
 ```
 
 ## Note
