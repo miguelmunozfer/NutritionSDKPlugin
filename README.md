@@ -54,7 +54,9 @@ NutritionSDK.start('username', 'appId', 'password');
 Updates the user's profile with the provided details.
 
 #### Parameters:
-- `sex`: String (optional) - The user's gender.
+- `sex`: String (optional) - The user's gender. The possible options are:
+  - `Male` for male
+  - `Female` for female
 - `height`: Number (optional) - The user's height in centimeters.
 - `weight`: Number (optional) - The user's weight in kilograms.
 - `birthDateString`: String (optional) - The user's birth date in 'yyyy-MM-dd' format.
