@@ -12,7 +12,7 @@ let package = Package(
             targets: ["NutritionIASDKWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/auth0/JWTDecode.swift.git", from: "2.6.0")
+        .package(url: "https://github.com/auth0/JWTDecode.swift.git", from: "3.1.0")
     ],
     targets: [
         .binaryTarget(
