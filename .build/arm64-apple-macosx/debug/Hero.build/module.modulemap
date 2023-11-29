@@ -1,4 +1,0 @@
-module Hero {
-    header "/Users/mmunozfer/Documents/NutritionSPM/.build/arm64-apple-macosx/debug/Hero.build/Hero-Swift.h"
-    requires objc
-}

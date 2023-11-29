@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "NutritionIASDK",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v12)
     ],
     products: [
         .library(
@@ -12,7 +12,7 @@ let package = Package(
             targets: ["NutritionIASDKWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/auth0/JWTDecode.swift.git", from: "3.1.0")
+        .package(url: "https://github.com/auth0/JWTDecode.swift.git", .exact("2.6.0"))
     ],
     targets: [
         .binaryTarget(
