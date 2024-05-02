@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/NutritionIASDK-Swift.h</key>
 		<data>
-		21fyyPjlbH8kbQXLqTHXERceFqA=
+		vPsmnZpAdm0QzQTfcZgPgQCqD1o=
 		</data>
 		<key>HealthAlertViewController.nib</key>
 		<data>
@@ -111,6 +111,26 @@
 		<key>IntakeViewController.nib</key>
 		<data>
 		9L8koc7UL/M5LXducb88JO1kBcE=
+		</data>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		YcDHTOCmEUzGSW4jE44EEVtcIDA=
+		</data>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		Ry80fzW3iV6HRL4ao0woXfIpHJk=
+		</data>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		gZlMwySDFI06f9tOpSHmlKj+Dco=
+		</data>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		Ry80fzW3iV6HRL4ao0woXfIpHJk=
+		</data>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		8Ecvu4RxZmH9qmGqyowz0FGLn0w=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -1362,7 +1382,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YRm8koneWvF0JL0hF7fPcosmzL3oezQRD0h29wCqoXE=
+			buzoVauR6FulUHCwGLcXM8vpyCqwnQHT0H37seciHg0=
 			</data>
 		</dict>
 		<key>HealthAlertViewController.nib</key>
@@ -1391,6 +1411,41 @@
 			<key>hash2</key>
 			<data>
 			Xeet2qJMry4Y0k/1yJkgCMe/CYmd4DRmN+nnRObTM+M=
+			</data>
+		</dict>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DBr3fZBwlwYq6oiJHx//NNNysdeg4fV4fk9Z23jiOJs=
+			</data>
+		</dict>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8SIiyLcmxmNnQFtnTI6IQEmkKfMrgBFkkZ4De33Pqtg=
+			</data>
+		</dict>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7aBocC6hjaQ2w3fPy0JeHxa/MsJx+P5/SZEX+rVEA/0=
+			</data>
+		</dict>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8SIiyLcmxmNnQFtnTI6IQEmkKfMrgBFkkZ4De33Pqtg=
+			</data>
+		</dict>
+		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EZa+RPs3U3KRD0fysW61d8m2wLsGcWvKX//pVBxmU+E=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
