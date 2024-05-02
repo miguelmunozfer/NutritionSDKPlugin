@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/NutritionIASDK-Swift.h</key>
 		<data>
-		vPsmnZpAdm0QzQTfcZgPgQCqD1o=
+		21fyyPjlbH8kbQXLqTHXERceFqA=
 		</data>
 		<key>HealthAlertViewController.nib</key>
 		<data>
@@ -112,33 +112,13 @@
 		<data>
 		9L8koc7UL/M5LXducb88JO1kBcE=
 		</data>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		0tpsbj08bC2gECbYd3uf/UguIYA=
-		</data>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		lx/kxDoQ+pDCxUjtu8l5MpWEmnE=
-		</data>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		gZlMwySDFI06f9tOpSHmlKj+Dco=
-		</data>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		lx/kxDoQ+pDCxUjtu8l5MpWEmnE=
-		</data>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		0X3poYBJRY6i+RyqUcugJg2LHhc=
-		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0tpsbj08bC2gECbYd3uf/UguIYA=
+		YcDHTOCmEUzGSW4jE44EEVtcIDA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		fgyrPdlcsSCxJX6S+9InnqE48sU=
+		M7Y3wXYdYGnmihov5fLHGH+o3Mc=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -146,11 +126,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fgyrPdlcsSCxJX6S+9InnqE48sU=
+		M7Y3wXYdYGnmihov5fLHGH+o3Mc=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Lno1JoVHAL2vuzMaAgYtHli9Nxk=
+		n+yzGYIwIt5JzaKpF3tnSaarQqM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1382,7 +1362,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			buzoVauR6FulUHCwGLcXM8vpyCqwnQHT0H37seciHg0=
+			YRm8koneWvF0JL0hF7fPcosmzL3oezQRD0h29wCqoXE=
 			</data>
 		</dict>
 		<key>HealthAlertViewController.nib</key>
@@ -1413,53 +1393,18 @@
 			Xeet2qJMry4Y0k/1yJkgCMe/CYmd4DRmN+nnRObTM+M=
 			</data>
 		</dict>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			X3DHSaTG9H+H5L4QeezgQoTF7heTdKx7SdFsbWpjzcg=
-			</data>
-		</dict>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4ePbRUXKuhbw5UoOFP9nZFlU+JIWN4JRfAKGwktAUq8=
-			</data>
-		</dict>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7aBocC6hjaQ2w3fPy0JeHxa/MsJx+P5/SZEX+rVEA/0=
-			</data>
-		</dict>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4ePbRUXKuhbw5UoOFP9nZFlU+JIWN4JRfAKGwktAUq8=
-			</data>
-		</dict>
-		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YafskzOVYwvEGSfK9meFQVTLME0ekFSflSuQOTH+ayg=
-			</data>
-		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X3DHSaTG9H+H5L4QeezgQoTF7heTdKx7SdFsbWpjzcg=
+			DBr3fZBwlwYq6oiJHx//NNNysdeg4fV4fk9Z23jiOJs=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DaXttm6tMI9vl/k2MnsEItPZz0LYNLnBqpNx+3s2fao=
+			HO9wlJ4I3a9lQmSAswDygjinwIor47bytY+JZQWW1Qk=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1473,14 +1418,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DaXttm6tMI9vl/k2MnsEItPZz0LYNLnBqpNx+3s2fao=
+			HO9wlJ4I3a9lQmSAswDygjinwIor47bytY+JZQWW1Qk=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKtF+Crw6914sv8fREGWuifvYGR+HHW5MUlPhF2/ff8=
+			0LngqZW/svHPjCiKO+0W9vVHGNeSNmMVziIt6tRTXmA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

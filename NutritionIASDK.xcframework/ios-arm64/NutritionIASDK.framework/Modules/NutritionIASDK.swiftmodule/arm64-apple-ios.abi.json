@@ -3988,6 +3988,80 @@
             "moduleName": "NutritionIASDK"
           },
           {
+            "kind": "Var",
+            "name": "spainEUS",
+            "printedName": "spainEUS",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NutritionIASDK.NutritionUserCountry.Type) -> NutritionIASDK.NutritionUserCountry",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NutritionUserCountry",
+                    "printedName": "NutritionIASDK.NutritionUserCountry",
+                    "usr": "s:14NutritionIASDK0A11UserCountryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NutritionIASDK.NutritionUserCountry.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NutritionUserCountry",
+                        "printedName": "NutritionIASDK.NutritionUserCountry",
+                        "usr": "s:14NutritionIASDK0A11UserCountryO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NutritionIASDK0A11UserCountryO8spainEUSyA2CmF",
+            "mangledName": "$s14NutritionIASDK0A11UserCountryO8spainEUSyA2CmF",
+            "moduleName": "NutritionIASDK"
+          },
+          {
+            "kind": "Var",
+            "name": "usa2",
+            "printedName": "usa2",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NutritionIASDK.NutritionUserCountry.Type) -> NutritionIASDK.NutritionUserCountry",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NutritionUserCountry",
+                    "printedName": "NutritionIASDK.NutritionUserCountry",
+                    "usr": "s:14NutritionIASDK0A11UserCountryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NutritionIASDK.NutritionUserCountry.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NutritionUserCountry",
+                        "printedName": "NutritionIASDK.NutritionUserCountry",
+                        "usr": "s:14NutritionIASDK0A11UserCountryO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NutritionIASDK0A11UserCountryO4usa2yA2CmF",
+            "mangledName": "$s14NutritionIASDK0A11UserCountryO4usa2yA2CmF",
+            "moduleName": "NutritionIASDK"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -13890,6 +13964,20 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
+      "offset": 1328,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
+      "kind": "IntegerLiteral",
       "offset": 1228,
       "length": 1,
       "value": "1"
@@ -13946,6 +14034,20 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
+      "offset": 1328,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
+      "kind": "IntegerLiteral",
       "offset": 1228,
       "length": 1,
       "value": "1"
@@ -14001,2402 +14103,2416 @@
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1328,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 1566,
+      "offset": 1592,
       "length": 19,
       "value": "\"ExcludedAlimentId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 1621,
+      "offset": 1647,
       "length": 21,
       "value": "\"ExcludedAlimentName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1695,
       "length": 12,
       "value": "\"AlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 1566,
+      "offset": 1592,
       "length": 19,
       "value": "\"ExcludedAlimentId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 1621,
+      "offset": 1647,
       "length": 21,
       "value": "\"ExcludedAlimentName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1695,
       "length": 12,
       "value": "\"AlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2055,
+      "offset": 2081,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2085,
+      "offset": 2111,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2118,
+      "offset": 2144,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2150,
+      "offset": 2176,
       "length": 9,
       "value": "\"Current\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2188,
+      "offset": 2214,
       "length": 14,
       "value": "\"SerialNumber\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2228,
+      "offset": 2254,
       "length": 11,
       "value": "\"Processed\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2266,
+      "offset": 2292,
       "length": 12,
       "value": "\"ViableKcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2299,
+      "offset": 2325,
       "length": 6,
       "value": "\"Days\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2329,
+      "offset": 2355,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2364,
+      "offset": 2390,
       "length": 11,
       "value": "\"ChangedAt\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2401,
+      "offset": 2427,
       "length": 11,
       "value": "\"CreatedAt\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2438,
+      "offset": 2464,
       "length": 11,
       "value": "\"KcalMedia\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2055,
+      "offset": 2081,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2085,
+      "offset": 2111,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2118,
+      "offset": 2144,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2150,
+      "offset": 2176,
       "length": 9,
       "value": "\"Current\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2188,
+      "offset": 2214,
       "length": 14,
       "value": "\"SerialNumber\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2228,
+      "offset": 2254,
       "length": 11,
       "value": "\"Processed\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2266,
+      "offset": 2292,
       "length": 12,
       "value": "\"ViableKcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2299,
+      "offset": 2325,
       "length": 6,
       "value": "\"Days\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2329,
+      "offset": 2355,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2364,
+      "offset": 2390,
       "length": 11,
       "value": "\"ChangedAt\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2401,
+      "offset": 2427,
       "length": 11,
       "value": "\"CreatedAt\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2438,
+      "offset": 2464,
       "length": 11,
       "value": "\"KcalMedia\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2744,
+      "offset": 2770,
       "length": 8,
       "value": "\"DayNum\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2776,
+      "offset": 2802,
       "length": 9,
       "value": "\"Intakes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2809,
+      "offset": 2835,
       "length": 9,
       "value": "\"KcalDay\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2744,
+      "offset": 2770,
       "length": 8,
       "value": "\"DayNum\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2776,
+      "offset": 2802,
       "length": 9,
       "value": "\"Intakes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 2809,
+      "offset": 2835,
       "length": 9,
       "value": "\"KcalDay\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 2971,
+      "offset": 2997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 2994,
+      "offset": 3020,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 3467,
+      "offset": 3493,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 3489,
+      "offset": 3515,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 3498,
+      "offset": 3524,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3572,
+      "offset": 3598,
       "length": 10,
       "value": "\"IntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3603,
+      "offset": 3629,
       "length": 12,
       "value": "\"IntakeName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3635,
+      "offset": 3661,
       "length": 8,
       "value": "\"DayNum\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3666,
+      "offset": 3692,
       "length": 8,
       "value": "\"Dishes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3572,
+      "offset": 3598,
       "length": 10,
       "value": "\"IntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3603,
+      "offset": 3629,
       "length": 12,
       "value": "\"IntakeName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3635,
+      "offset": 3661,
       "length": 8,
       "value": "\"DayNum\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 3666,
+      "offset": 3692,
       "length": 8,
       "value": "\"Dishes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4056,
+      "offset": 4082,
       "length": 6,
       "value": "\"Dish\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4085,
+      "offset": 4111,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4056,
+      "offset": 4082,
       "length": 6,
       "value": "\"Dish\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4085,
+      "offset": 4111,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4272,
+      "offset": 4298,
       "length": 8,
       "value": "\"Dishes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4303,
+      "offset": 4329,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4272,
+      "offset": 4298,
       "length": 8,
       "value": "\"Dishes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4303,
+      "offset": 4329,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4748,
+      "offset": 4774,
       "length": 8,
       "value": "\"DishId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4777,
+      "offset": 4803,
       "length": 10,
       "value": "\"DishName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4815,
+      "offset": 4841,
       "length": 13,
       "value": "\"DishOrderId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4853,
+      "offset": 4879,
       "length": 15,
       "value": "\"DishOrderName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4890,
+      "offset": 4916,
       "length": 7,
       "value": "\"Carbs\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4922,
+      "offset": 4948,
       "length": 10,
       "value": "\"Proteins\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4953,
+      "offset": 4979,
       "length": 6,
       "value": "\"Fats\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4980,
+      "offset": 5006,
       "length": 6,
       "value": "\"Kcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5014,
+      "offset": 5040,
       "length": 13,
       "value": "\"Preferences\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5054,
+      "offset": 5080,
       "length": 12,
       "value": "\"Difficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5094,
+      "offset": 5120,
       "length": 13,
       "value": "\"Ingredients\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5130,
+      "offset": 5156,
       "length": 8,
       "value": "\"Recipe\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5165,
+      "offset": 5191,
       "length": 11,
       "value": "\"BinaryUrl\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4748,
+      "offset": 4774,
       "length": 8,
       "value": "\"DishId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4777,
+      "offset": 4803,
       "length": 10,
       "value": "\"DishName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4815,
+      "offset": 4841,
       "length": 13,
       "value": "\"DishOrderId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4853,
+      "offset": 4879,
       "length": 15,
       "value": "\"DishOrderName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4890,
+      "offset": 4916,
       "length": 7,
       "value": "\"Carbs\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4922,
+      "offset": 4948,
       "length": 10,
       "value": "\"Proteins\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4953,
+      "offset": 4979,
       "length": 6,
       "value": "\"Fats\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 4980,
+      "offset": 5006,
       "length": 6,
       "value": "\"Kcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5014,
+      "offset": 5040,
       "length": 13,
       "value": "\"Preferences\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5054,
+      "offset": 5080,
       "length": 12,
       "value": "\"Difficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5094,
+      "offset": 5120,
       "length": 13,
       "value": "\"Ingredients\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5130,
+      "offset": 5156,
       "length": 8,
       "value": "\"Recipe\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5165,
+      "offset": 5191,
       "length": 11,
       "value": "\"BinaryUrl\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5242,
+      "offset": 5268,
       "length": 8,
       "value": "\"Postre\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5270,
+      "offset": 5296,
       "length": 9,
       "value": "\"Primero\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5299,
+      "offset": 5325,
       "length": 9,
       "value": "\"Segundo\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5242,
+      "offset": 5268,
       "length": 8,
       "value": "\"Postre\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5270,
+      "offset": 5296,
       "length": 9,
       "value": "\"Primero\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5299,
+      "offset": 5325,
       "length": 9,
       "value": "\"Segundo\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5507,
+      "offset": 5533,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5545,
+      "offset": 5571,
       "length": 13,
       "value": "\"ClientAlias\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5585,
+      "offset": 5611,
       "length": 12,
       "value": "\"ClientName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5621,
+      "offset": 5647,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5507,
+      "offset": 5533,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5545,
+      "offset": 5571,
       "length": 13,
       "value": "\"ClientAlias\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5585,
+      "offset": 5611,
       "length": 12,
       "value": "\"ClientName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5621,
+      "offset": 5647,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5874,
+      "offset": 5900,
       "length": 14,
       "value": "\"PreferenceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5919,
+      "offset": 5945,
       "length": 16,
       "value": "\"PreferenceName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5966,
+      "offset": 5992,
       "length": 16,
       "value": "\"PreferenceType\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6009,
+      "offset": 6035,
       "length": 12,
       "value": "\"AlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5874,
+      "offset": 5900,
       "length": 14,
       "value": "\"PreferenceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5919,
+      "offset": 5945,
       "length": 16,
       "value": "\"PreferenceName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 5966,
+      "offset": 5992,
       "length": 16,
       "value": "\"PreferenceType\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6009,
+      "offset": 6035,
       "length": 12,
       "value": "\"AlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6090,
+      "offset": 6116,
       "length": 10,
       "value": "\"Allergen\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6125,
+      "offset": 6151,
       "length": 14,
       "value": "\"Intollerance\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6162,
+      "offset": 6188,
       "length": 12,
       "value": "\"Principles\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6090,
+      "offset": 6116,
       "length": 10,
       "value": "\"Allergen\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6125,
+      "offset": 6151,
       "length": 14,
       "value": "\"Intollerance\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6162,
+      "offset": 6188,
       "length": 12,
       "value": "\"Principles\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6354,
+      "offset": 6380,
       "length": 18,
       "value": "\"DesiredBalanceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6407,
+      "offset": 6433,
       "length": 20,
       "value": "\"DesiredBalanceName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6354,
+      "offset": 6380,
       "length": 18,
       "value": "\"DesiredBalanceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6407,
+      "offset": 6433,
       "length": 20,
       "value": "\"DesiredBalanceName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6594,
+      "offset": 6620,
       "length": 13,
       "value": "\"CountryName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6633,
+      "offset": 6659,
       "length": 11,
       "value": "\"CountryId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6594,
+      "offset": 6620,
       "length": 13,
       "value": "\"CountryName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6633,
+      "offset": 6659,
       "length": 11,
       "value": "\"CountryId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "BooleanLiteral",
-      "offset": 6793,
+      "offset": 6819,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6877,
+      "offset": 6903,
       "length": 23,
       "value": "\"IntermittentFastingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6940,
+      "offset": 6966,
       "length": 25,
       "value": "\"IntermittentFastingName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6989,
+      "offset": 7015,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6877,
+      "offset": 6903,
       "length": 23,
       "value": "\"IntermittentFastingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6940,
+      "offset": 6966,
       "length": 25,
       "value": "\"IntermittentFastingName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 6989,
+      "offset": 7015,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 7215,
+      "offset": 7241,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7644,
+      "offset": 7670,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7672,
+      "offset": 7698,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7705,
+      "offset": 7731,
       "length": 10,
       "value": "\"MemberId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7740,
+      "offset": 7766,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7778,
+      "offset": 7804,
       "length": 13,
       "value": "\"DateOfBirth\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7818,
+      "offset": 7844,
       "length": 12,
       "value": "\"Difficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7853,
+      "offset": 7879,
       "length": 8,
       "value": "\"Gender\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7897,
+      "offset": 7923,
       "length": 21,
       "value": "\"PhysicalIntensityId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7944,
+      "offset": 7970,
       "length": 11,
       "value": "\"DailyKcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7984,
+      "offset": 8010,
       "length": 14,
       "value": "\"TargetWeight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8021,
+      "offset": 8047,
       "length": 8,
       "value": "\"Weight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8052,
+      "offset": 8078,
       "length": 8,
       "value": "\"Height\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8093,
+      "offset": 8119,
       "length": 18,
       "value": "\"DesiredBalanceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8138,
+      "offset": 8164,
       "length": 12,
       "value": "\"TrainingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8173,
+      "offset": 8199,
       "length": 8,
       "value": "\"DietId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8220,
+      "offset": 8246,
       "length": 24,
       "value": "\"DistributionByIntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8272,
+      "offset": 8298,
       "length": 13,
       "value": "\"ClientAlias\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8320,
+      "offset": 8346,
       "length": 20,
       "value": "\"ExcludedAlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8370,
+      "offset": 8396,
       "length": 15,
       "value": "\"PreferenceIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8412,
+      "offset": 8438,
       "length": 12,
       "value": "\"CountryIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8456,
+      "offset": 8482,
       "length": 17,
       "value": "\"SelectedIntakes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8511,
+      "offset": 8537,
       "length": 23,
       "value": "\"IntermittentFastingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7644,
+      "offset": 7670,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7672,
+      "offset": 7698,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7705,
+      "offset": 7731,
       "length": 10,
       "value": "\"MemberId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7740,
+      "offset": 7766,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7778,
+      "offset": 7804,
       "length": 13,
       "value": "\"DateOfBirth\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7818,
+      "offset": 7844,
       "length": 12,
       "value": "\"Difficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7853,
+      "offset": 7879,
       "length": 8,
       "value": "\"Gender\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7897,
+      "offset": 7923,
       "length": 21,
       "value": "\"PhysicalIntensityId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7944,
+      "offset": 7970,
       "length": 11,
       "value": "\"DailyKcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 7984,
+      "offset": 8010,
       "length": 14,
       "value": "\"TargetWeight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8021,
+      "offset": 8047,
       "length": 8,
       "value": "\"Weight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8052,
+      "offset": 8078,
       "length": 8,
       "value": "\"Height\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8093,
+      "offset": 8119,
       "length": 18,
       "value": "\"DesiredBalanceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8138,
+      "offset": 8164,
       "length": 12,
       "value": "\"TrainingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8173,
+      "offset": 8199,
       "length": 8,
       "value": "\"DietId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8220,
+      "offset": 8246,
       "length": 24,
       "value": "\"DistributionByIntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8272,
+      "offset": 8298,
       "length": 13,
       "value": "\"ClientAlias\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8320,
+      "offset": 8346,
       "length": 20,
       "value": "\"ExcludedAlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8370,
+      "offset": 8396,
       "length": 15,
       "value": "\"PreferenceIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8412,
+      "offset": 8438,
       "length": 12,
       "value": "\"CountryIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8456,
+      "offset": 8482,
       "length": 17,
       "value": "\"SelectedIntakes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 8511,
+      "offset": 8537,
       "length": 23,
       "value": "\"IntermittentFastingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 9615,
+      "offset": 9641,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 9644,
+      "offset": 9670,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 9905,
+      "offset": 9931,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 9994,
+      "offset": 10020,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "BooleanLiteral",
-      "offset": 10162,
+      "offset": 10188,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10267,
+      "offset": 10293,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10300,
+      "offset": 10326,
       "length": 10,
       "value": "\"MemberId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10335,
+      "offset": 10361,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10370,
+      "offset": 10396,
       "length": 10,
       "value": "\"UserName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10409,
+      "offset": 10435,
       "length": 14,
       "value": "\"UserSurnames\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10448,
+      "offset": 10474,
       "length": 10,
       "value": "\"Password\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10486,
+      "offset": 10512,
       "length": 13,
       "value": "\"DateOfBirth\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10522,
+      "offset": 10548,
       "length": 8,
       "value": "\"Gender\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10566,
+      "offset": 10592,
       "length": 21,
       "value": "\"PhysicalIntensityId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10613,
+      "offset": 10639,
       "length": 11,
       "value": "\"DailyKcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10653,
+      "offset": 10679,
       "length": 14,
       "value": "\"TargetWeight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10690,
+      "offset": 10716,
       "length": 8,
       "value": "\"Weight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10721,
+      "offset": 10747,
       "length": 8,
       "value": "\"Height\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10762,
+      "offset": 10788,
       "length": 18,
       "value": "\"DesiredBalanceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10807,
+      "offset": 10833,
       "length": 12,
       "value": "\"TrainingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10845,
+      "offset": 10871,
       "length": 11,
       "value": "\"Countries\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10884,
+      "offset": 10910,
       "length": 13,
       "value": "\"Preferences\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10920,
+      "offset": 10946,
       "length": 8,
       "value": "\"DietId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10967,
+      "offset": 10993,
       "length": 24,
       "value": "\"DistributionByIntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11023,
+      "offset": 11049,
       "length": 17,
       "value": "\"SelectedIntakes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11073,
+      "offset": 11099,
       "length": 20,
       "value": "\"ExcludedAlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11119,
+      "offset": 11145,
       "length": 11,
       "value": "\"Algorithm\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11161,
+      "offset": 11187,
       "length": 16,
       "value": "\"RegenerateMenu\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11215,
+      "offset": 11241,
       "length": 23,
       "value": "\"IntermittentFastingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11265,
+      "offset": 11291,
       "length": 12,
       "value": "\"Difficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10267,
+      "offset": 10293,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10300,
+      "offset": 10326,
       "length": 10,
       "value": "\"MemberId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10335,
+      "offset": 10361,
       "length": 10,
       "value": "\"ClientId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10370,
+      "offset": 10396,
       "length": 10,
       "value": "\"UserName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10409,
+      "offset": 10435,
       "length": 14,
       "value": "\"UserSurnames\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10448,
+      "offset": 10474,
       "length": 10,
       "value": "\"Password\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10486,
+      "offset": 10512,
       "length": 13,
       "value": "\"DateOfBirth\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10522,
+      "offset": 10548,
       "length": 8,
       "value": "\"Gender\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10566,
+      "offset": 10592,
       "length": 21,
       "value": "\"PhysicalIntensityId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10613,
+      "offset": 10639,
       "length": 11,
       "value": "\"DailyKcal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10653,
+      "offset": 10679,
       "length": 14,
       "value": "\"TargetWeight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10690,
+      "offset": 10716,
       "length": 8,
       "value": "\"Weight\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10721,
+      "offset": 10747,
       "length": 8,
       "value": "\"Height\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10762,
+      "offset": 10788,
       "length": 18,
       "value": "\"DesiredBalanceId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10807,
+      "offset": 10833,
       "length": 12,
       "value": "\"TrainingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10845,
+      "offset": 10871,
       "length": 11,
       "value": "\"Countries\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10884,
+      "offset": 10910,
       "length": 13,
       "value": "\"Preferences\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10920,
+      "offset": 10946,
       "length": 8,
       "value": "\"DietId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 10967,
+      "offset": 10993,
       "length": 24,
       "value": "\"DistributionByIntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11023,
+      "offset": 11049,
       "length": 17,
       "value": "\"SelectedIntakes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11073,
+      "offset": 11099,
       "length": 20,
       "value": "\"ExcludedAlimentIds\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11119,
+      "offset": 11145,
       "length": 11,
       "value": "\"Algorithm\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11161,
+      "offset": 11187,
       "length": 16,
       "value": "\"RegenerateMenu\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11215,
+      "offset": 11241,
       "length": 23,
       "value": "\"IntermittentFastingId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 11265,
+      "offset": 11291,
       "length": 12,
       "value": "\"Difficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11438,
+      "offset": 11464,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11460,
+      "offset": 11486,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11593,
+      "offset": 11619,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11627,
+      "offset": 11653,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 11668,
+      "offset": 11694,
       "length": 5,
       "value": "[3, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11705,
+      "offset": 11731,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 11720,
+      "offset": 11746,
       "length": 7,
       "value": "[1, 3, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11759,
+      "offset": 11785,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 11774,
+      "offset": 11800,
       "length": 9,
       "value": "[1, 3, 4, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11815,
+      "offset": 11841,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 11830,
+      "offset": 11856,
       "length": 11,
       "value": "[1, 2, 3, 4, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11873,
+      "offset": 11899,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 11888,
+      "offset": 11914,
       "length": 9,
       "value": "[1, 2, 3, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11929,
+      "offset": 11955,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 11944,
+      "offset": 11970,
       "length": 9,
       "value": "[2, 3, 4, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 11985,
+      "offset": 12011,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 12000,
+      "offset": 12026,
       "length": 7,
       "value": "[3, 4, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12039,
+      "offset": 12065,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 12054,
+      "offset": 12080,
       "length": 7,
       "value": "[2, 3, 5]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12093,
+      "offset": 12119,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12143,
+      "offset": 12169,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12295,
+      "offset": 12321,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "BooleanLiteral",
-      "offset": 12301,
+      "offset": 12327,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12332,
+      "offset": 12358,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "BooleanLiteral",
-      "offset": 12338,
+      "offset": 12364,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12431,
+      "offset": 12457,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12479,
+      "offset": 12505,
       "length": 3,
       "value": "170"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12484,
+      "offset": 12510,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12535,
+      "offset": 12561,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12642,
+      "offset": 12668,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12649,
+      "offset": 12675,
       "length": 4,
       "value": "45.5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12697,
+      "offset": 12723,
       "length": 3,
       "value": "170"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12704,
+      "offset": 12730,
       "length": 5,
       "value": "150.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12713,
+      "offset": 12739,
       "length": 4,
       "value": "0.92"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12808,
+      "offset": 12834,
       "length": 4,
       "value": "22.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12815,
+      "offset": 12841,
       "length": 4,
       "value": "21.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12864,
+      "offset": 12890,
       "length": 3,
       "value": "170"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 12869,
+      "offset": 12895,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 12908,
+      "offset": 12934,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13028,
+      "offset": 13054,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 13060,
+      "offset": 13086,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13355,
+      "offset": 13381,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13403,
+      "offset": 13429,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13445,
+      "offset": 13471,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13449,
+      "offset": 13475,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13451,
+      "offset": 13477,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13493,
+      "offset": 13519,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13498,
+      "offset": 13524,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13500,
+      "offset": 13526,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13542,
+      "offset": 13568,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13547,
+      "offset": 13573,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13549,
+      "offset": 13575,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13724,
+      "offset": 13750,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 13756,
+      "offset": 13782,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13773,
+      "offset": 13799,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 13851,
+      "offset": 13877,
       "length": 3,
       "value": "1.2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 13963,
+      "offset": 13989,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14003,
+      "offset": 14029,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14010,
+      "offset": 14036,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14028,
+      "offset": 14054,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14068,
+      "offset": 14094,
       "length": 4,
       "value": "35.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14075,
+      "offset": 14101,
       "length": 4,
       "value": "33.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14093,
+      "offset": 14119,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14133,
+      "offset": 14159,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14140,
+      "offset": 14166,
       "length": 4,
       "value": "35.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14158,
+      "offset": 14184,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14198,
+      "offset": 14224,
       "length": 4,
       "value": "46.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14205,
+      "offset": 14231,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14264,
+      "offset": 14290,
       "length": 4,
       "value": "52.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14271,
+      "offset": 14297,
       "length": 4,
       "value": "45.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14530,
+      "offset": 14556,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14534,
+      "offset": 14560,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14557,
+      "offset": 14583,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14572,
+      "offset": 14598,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14577,
+      "offset": 14603,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14600,
+      "offset": 14626,
       "length": 4,
       "value": "0.95"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14618,
+      "offset": 14644,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14623,
+      "offset": 14649,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14646,
+      "offset": 14672,
       "length": 4,
       "value": "0.90"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14664,
+      "offset": 14690,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14669,
+      "offset": 14695,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14692,
+      "offset": 14718,
       "length": 4,
       "value": "0.80"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14710,
+      "offset": 14736,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 14715,
+      "offset": 14741,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14739,
+      "offset": 14765,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "FloatLiteral",
-      "offset": 14779,
+      "offset": 14805,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 14974,
+      "offset": 15000,
       "length": 8,
       "value": "\"Intake\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15005,
+      "offset": 15031,
       "length": 8,
       "value": "\"Dishes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 14974,
+      "offset": 15000,
       "length": 8,
       "value": "\"Intake\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15005,
+      "offset": 15031,
       "length": 8,
       "value": "\"Dishes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15265,
+      "offset": 15291,
       "length": 24,
       "value": "\"DistributionByIntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15330,
+      "offset": 15356,
       "length": 26,
       "value": "\"DistributionByIntakeName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15387,
+      "offset": 15413,
       "length": 16,
       "value": "\"IPDistribution\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15265,
+      "offset": 15291,
       "length": 24,
       "value": "\"DistributionByIntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15330,
+      "offset": 15356,
       "length": 26,
       "value": "\"DistributionByIntakeName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 15387,
+      "offset": 15413,
       "length": 16,
       "value": "\"IPDistribution\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 15665,
+      "offset": 15691,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 15695,
+      "offset": 15721,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "Array",
-      "offset": 15785,
+      "offset": 15811,
       "length": 3,
       "value": "[1]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16068,
+      "offset": 16094,
       "length": 10,
       "value": "\"IntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16100,
+      "offset": 16126,
       "length": 7,
       "value": "\"Carbs\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16132,
+      "offset": 16158,
       "length": 10,
       "value": "\"Proteins\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16163,
+      "offset": 16189,
       "length": 6,
       "value": "\"Fats\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16068,
+      "offset": 16094,
       "length": 10,
       "value": "\"IntakeId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16100,
+      "offset": 16126,
       "length": 7,
       "value": "\"Carbs\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16132,
+      "offset": 16158,
       "length": 10,
       "value": "\"Proteins\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16163,
+      "offset": 16189,
       "length": 6,
       "value": "\"Fats\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16362,
+      "offset": 16388,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16405,
+      "offset": 16431,
       "length": 23,
       "value": "\"PhysicalIntensityName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16464,
+      "offset": 16490,
       "length": 21,
       "value": "\"PhysicalIntensityId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16362,
+      "offset": 16388,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16405,
+      "offset": 16431,
       "length": 23,
       "value": "\"PhysicalIntensityName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16464,
+      "offset": 16490,
       "length": 21,
       "value": "\"PhysicalIntensityId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16658,
+      "offset": 16684,
       "length": 13,
       "value": "\"DishOrderId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16701,
+      "offset": 16727,
       "length": 15,
       "value": "\"DishOrderName\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16658,
+      "offset": 16684,
       "length": 13,
       "value": "\"DishOrderId\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/NutritionSDKIASPM\/NutritionIASDK\/Nutricion\/NutritionIARModels.swift",
       "kind": "StringLiteral",
-      "offset": 16701,
+      "offset": 16727,
       "length": 15,
       "value": "\"DishOrderName\""
     },
