@@ -8,16 +8,15 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NutritionSDKXplor'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDKPlugin.git', :tag => "1.0.1" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDKPlugin.git', :tag => "1.0.2" }
   s.ios.deployment_target = '12.0'
   # s.resources = "**/**/en.lproj"
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
-  s.dependency  'Hero', '~> 1.6.1'
   s.dependency  'JWTDecode', '~> 2.6'
   s.swift_version = "5.0"
   s.swift_versions = ["5.0"]
