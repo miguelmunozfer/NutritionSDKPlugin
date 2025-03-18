@@ -1,10 +1,9 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NutritionIASDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import DeveloperToolsSupport
 import Foundation
-import JWTDecode
 import Swift
 import SwiftUI
 import UIKit
@@ -26,10 +25,10 @@ import os
     set
   }
   public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
-  public func setURL(url: Swift.String)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, activityLevel: Swift.Int, operationDate: Foundation.Date? = nil, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
   public func updateProfile(sex: NutritionIASDK.NutritionGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, generateMenu: Swift.Bool = false, needsWaitingScreens: Swift.Bool = true)
   public func getUserYear() -> Swift.Int?
+  public func setURL(url: Swift.String)
   public func getUserGender() -> NutritionIASDK.NutritionGender?
   public func getUserHeight() -> Swift.Int?
   public func getUserWeight() -> Swift.Int?
@@ -92,8 +91,6 @@ public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable 
   case de
   case ca
   case it
-  case eu
-  case enUS
   case fr
   public init?(rawValue: Swift.String)
   public typealias AllCases = [NutritionIASDK.NutritionLanguage]
@@ -115,7 +112,7 @@ public enum DietType : Swift.Int {
   }
 }
 public enum NutritionUserCountry : Swift.Int, Swift.Codable {
-  case spain, portugal, colombia, uk, usa, germany, italy, cataluna, spainEUS, usa2, france
+  case spain, portugal, colombia, uk, france, usa, germany, italy, cataluna, spainEUS, usa2
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
