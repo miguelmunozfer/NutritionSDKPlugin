@@ -8,14 +8,18 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NutritionSDKXplor'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDKPlugin.git', :tag => "1.0.3" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDKPlugin.git', :tag => "1.0.4" }
   s.ios.deployment_target = '12.0'
+  s.static_framework = true
   # s.resources = "**/**/en.lproj"
+  s.resource_bundles = {
+    'NutritionSDKXplorResources' => ["**/*.lproj", "**/*.strings", "**/*.xib", "**/*.nib", "**/*.png"]
+  }
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
   s.swift_version = "5.0"
 #  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
