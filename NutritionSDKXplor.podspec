@@ -17,9 +17,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.static_framework = true
   # s.resources = "**/**/en.lproj"
-  s.resource_bundles = {
-    'NutritionSDKXplorResources' => ["**/*.lproj", "**/*.strings", "**/*.xib", "**/*.nib", "**/*.png"]
-  }
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
   s.swift_version = "5.0"
 #  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
