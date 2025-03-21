@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NutritionSDKXplor'
-  s.version          = '1.0.4'
+  s.version          = '1.0.5'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDKPlugin.git', :tag => "1.0.4" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDKPlugin.git', :tag => "1.0.5" }
   s.ios.deployment_target = '12.0'
   s.static_framework = true
   # s.resources = "**/**/en.lproj"
